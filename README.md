@@ -7,7 +7,6 @@
 - 💡 喜欢 硬件，因为它们能给这个软件生命
 
 ![](https://github-readme-stats.vercel.app/api?username=lmafia&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmafia&layout=compact)
 
 
