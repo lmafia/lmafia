@@ -3,7 +3,7 @@
 ### 个人介绍 🗿：
 
 - 💻 Coding.......
-- ☕️ 喜欢 Java Web, 因为源码太牛逼了
+- ☕️ 喜欢 Java Web, 因为通过源码能发现java这门语言和生态的魅力
 - 💡 喜欢 硬件，因为它们能给这个软件生命
 
 ![](https://github-readme-stats.vercel.app/api?username=lmafia&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false)
