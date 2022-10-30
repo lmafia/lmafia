@@ -1,6 +1,10 @@
 ### Hi, I'm Kaiye Lian 👋
+
 ---
 ### 个人介绍 🗿：
+![image](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D265527861&label=bilibili%20fans&query=%24.data.totalSubs&logo=bilibili)
+![image](https://img.shields.io/github/followers/lmafia?logo=github)
+![image](https://img.shields.io/badge/Link-996.icu-red.svg)
 
 - 💻 追求极客人生、打造个人技术品牌
 - ☕️ 喜欢 Java, 因为通过源码能发现了java这门语言和生态的魅力
