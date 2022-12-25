@@ -13,13 +13,13 @@
 - 💡 Like the Hardware because they software life and working with quietly in the real world
 <!-- 喜欢 Hardware, 因为它们软件生命, 并与在现实世界默默工作 -->
 
-![](https://github-readme-stats.vercel.app/api?username=lmafia&show_icons=true&title_color=ff2686&icon_color=ff2686&text_color=403339&bg_color=ffffff&hide_title=false)
+![](https://github-readme-stats.vercel.app/api?username=lmafia&show_icons=true&hide_title=false&theme=onedark)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmafia&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmafia&layout=compact&hide=Assembly&theme=ayu-mirage)
 
 
 ---
-### 📝Contact Me：
+### 📝Contact：
 
 - 📡 QQ：296427390
 - 📧 E-mail：lmafiamm@gmail.com
