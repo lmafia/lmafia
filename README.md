@@ -13,9 +13,9 @@
 - 💡 Like the Hardware because they software life and working with quietly in the real world
 <!-- 喜欢 Hardware, 因为它们软件生命, 并与在现实世界默默工作 -->
 
-![](https://github-readme-stats.vercel.app/api?username=lmafia&show_icons=true&hide_title=false&theme=onedark)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=lmafia&show_icons=true&hide_title=false&theme=onedark) -->
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmafia&layout=compact&hide=Assembly&theme=ayu-mirage)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmafia&layout=compact&hide=Assembly&theme=ayu-mirage) -->
 
 
 ---
