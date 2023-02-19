@@ -6,7 +6,7 @@
 ![image](https://img.shields.io/github/followers/lmafia?logo=github)
 ![image](https://img.shields.io/badge/Link-996.icu-red.svg)
 
-- 💻 Pursuing a guest, make personal technology brand
+- 💻 Pursue Geeks lifestyle, build personal technology brand
 <!-- 追求极客人生、打造个人技术品牌  -->
 - ☕️ Like Java, because through the source code can find the charm of Java the language and the ecology
 <!-- 喜欢 Java, 因为通过源码能发现了java这门语言和生态的魅力 -->
