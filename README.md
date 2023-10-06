@@ -26,7 +26,7 @@
 
 ---
 ### 🖇 Blog:
-- [lmafia.github.io](https://github.com/lmafia/lmafia.github.io)
+- [lmafia.github.io](https://lmafia.github.io/)
 - [CSDN](https://blog.csdn.net/weixin_41974269)
 
 ---
