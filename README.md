@@ -26,8 +26,8 @@
 
 ---
 ### 🖇 Blog:
-
-- [Blog](https://blog.csdn.net/weixin_41974269)
+- [lmafia.github.io](https://github.com/lmafia/lmafia.github.io)
+- [CSDN](https://blog.csdn.net/weixin_41974269)
 
 ---
 ### 🌎Now
