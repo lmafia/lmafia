@@ -27,11 +27,6 @@
 ---
 ### 🖇 Blog:
 - [lmafia.github.io](https://lmafia.github.io/)
-- [CSDN](https://blog.csdn.net/weixin_41974269)
-
----
-### 🌎Now
-- leaning Java Micro services/Spring Cloud  [repository](https://github.com/lmafia/spring-cloud-technology)
 
 ---
 ### 🧔 Future
