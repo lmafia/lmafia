@@ -6,11 +6,11 @@
 ![image](https://img.shields.io/github/followers/lmafia?logo=github)
 ![image](https://img.shields.io/badge/Link-996.icu-red.svg)
 
-- 💻 Pursue Geeks lifestyle, build personal technology brand
+- 💻 Pursue a Geeks lifestyle, build a personal technology brand
 <!-- 追求极客人生、打造个人技术品牌  -->
-- ☕️ Like Java, because through the source code can find the charm of Java the language and the ecology
+- ☕️ Like Java, because through the source code, you can find the charm of Java the language, and the ecology
 <!-- 喜欢 Java, 因为通过源码能发现了java这门语言和生态的魅力 -->
-- 💡 Like the Hardware because they software life and working with quietly in the real world
+- 💡 Like the Hardware because the software life and works quietly in the real world
 <!-- 喜欢 Hardware, 因为它们软件生命, 并与在现实世界默默工作 -->
 
 <!-- ![](https://github-readme-stats.vercel.app/api?username=lmafia&show_icons=true&hide_title=false&theme=onedark) -->
