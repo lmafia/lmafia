@@ -26,7 +26,7 @@
 
 ---
 ### 🖇 Blog:
-- [lmafia.github.io](https://lmafia.github.io/)
+- [blog](https://blog.lmafia.info/)
 
 ---
 ### 🧔 Future
