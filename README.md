@@ -21,7 +21,6 @@
 ---
 ### 📝Contact：
 
-- 📡 QQ：296427390
 - 📧 E-mail：lmafiamm@gmail.com
 
 ---
