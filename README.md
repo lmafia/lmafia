@@ -21,22 +21,21 @@ I'm KyleGeeks.
 
 
 ---
-### 📝Contact：
-
-- 📧 E-mail：lmafiamm@gmail.com
+### Contact：
+📧 E-mail: lmafiamm@gmail.com
 
 ---
-### 🖇 Blog:
-- [blog](https://blog.lmafia.info/)
+### Article: 
+📝Blog: [blog.lmafia.info](https://blog.lmafia.info/)
 
 ---
 ### 🧔 Future
 
-<!-- - 走进物联网行业，把现实世界的各种设备都管理起来是多么有趣～ -->
-<!-- - 进一步研究☁️云原生, 学习服务治理相关, 让服务模块化, 易监控, 让软件更安全可靠～ -->
-- 🔌 IOT
+- 🔌 AIGC
+  
+- 🤖 AI Agent
 
-- ☁️ ️Native Cloud
+- ☁️ ️Full Stack
 
 
 
