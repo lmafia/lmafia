@@ -21,17 +21,8 @@ I'm KyleGeeks.
 
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lmafia&layout=compact&hide=Assembly&theme=ayu-mirage) -->
 
-
 ---
-### Contact：
-📧 E-mail: lmafiamm@gmail.com
-
----
-### Article: 
-📝Blog: [blog.lmafia.info](https://blog.lmafia.info/)
-
----
-### 🧔 Future
+### 🧔 Focus
 
 - 🔌 AIGC
   
