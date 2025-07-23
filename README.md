@@ -5,7 +5,7 @@
 
 ---
 ### 🗿Introduction ：
-![image](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dbilibili%26queryKey%3D265527861&label=bilibili%20fans&query=%24.data.totalSubs&logo=bilibili)
+![image](https://img.shields.io/badge/dynamic/json?color=blue&logo=bilibili&style=social&label=bilibili&query=data.follower&url=https%3A%2F%2Fapi.bilibili.com%2Fx%2Frelation%2Fstat%3Fvmid%3D265527861%26jsonp%3Djsonp)
 ![image](https://img.shields.io/github/followers/lmafia?logo=github)
 ![image](https://img.shields.io/badge/Link-996.icu-red.svg)
 
